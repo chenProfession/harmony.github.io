@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ShokaX Can
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: zh-cn
+title: 快乐小班生活-物联网2301
+subtitle: '陈老师的个人博客'
+description: '17位有趣的灵魂万里挑一，愉快玩耍的课堂生活丰富多彩'
+keywords: 物联网 小班教学 鸿蒙应用开发 课堂生活 有趣的灵魂
+author: Mr.Chen
+language: 
+  - zh-cn
 timezone: 'Asia/Shanghai'
 
 # URL
